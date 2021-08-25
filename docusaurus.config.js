@@ -22,6 +22,10 @@ module.exports = {
                     href: "/tags/help",
                 },
                 {
+                    label: "Learning",
+                    href: "/tags/learning",
+                },
+                {
                     label: "React",
                     href: "/tags/react",
                 },
