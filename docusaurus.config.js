@@ -2,7 +2,7 @@
 module.exports = {
     title: "OBFnS Engineering Blog",
     tagline: "Articles and References for the OBFnS Engineering team",
-    url: "https://obfns.github.io/global-webapp-engineering-blog/",
+    url: "https://obfns.github.io",
     baseUrl: "/global-webapp-engineering-blog/",
     onBrokenLinks: "throw",
     onBrokenMarkdownLinks: "warn",
