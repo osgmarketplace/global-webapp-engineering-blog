@@ -2,23 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://obfns.github.io/global-webapp-engineering-blog/</id>
     <title>OBFnS Engineering Blog Blog</title>
-    <updated>2021-08-26T00:00:00.000Z</updated>
+    <updated>2021-08-17T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://obfns.github.io/global-webapp-engineering-blog/"/>
     <subtitle>OBFnS Engineering Blog Blog</subtitle>
     <icon>https://obfns.github.io/global-webapp-engineering-blog/img/favicon.ico</icon>
     <entry>
+        <title type="html"><![CDATA[Building Microservices - Book Review]]></title>
+        <id>Building Microservices - Book Review</id>
+        <link href="https://obfns.github.io/global-webapp-engineering-blog/2021/08/17/building-microservices-book"/>
+        <updated>2021-08-17T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Designing Fine Grained Systems]]></summary>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[React FAQ]]></title>
         <id>React FAQ</id>
-        <link href="https://obfns.github.io/global-webapp-engineering-blog/2021/08/26/react-faq"/>
-        <updated>2021-08-26T00:00:00.000Z</updated>
+        <link href="https://obfns.github.io/global-webapp-engineering-blog/2021/08/16/react-faq"/>
+        <updated>2021-08-16T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Some basics and helpful information not always shared amongst frontend devs using React]]></summary>
     </entry>
     <entry>
         <title type="html"><![CDATA[Introduction]]></title>
         <id>Introduction</id>
-        <link href="https://obfns.github.io/global-webapp-engineering-blog/2021/08/25/intro"/>
-        <updated>2021-08-25T00:00:00.000Z</updated>
+        <link href="https://obfns.github.io/global-webapp-engineering-blog/2021/08/15/intro"/>
+        <updated>2021-08-15T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Homepage and introduction to the purpose of this Blog]]></summary>
     </entry>
 </feed>
