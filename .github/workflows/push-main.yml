@@ -40,7 +40,6 @@ jobs:
       - name: Build Docusaurus
         run: |
           npm ci
-          npm run build:gql
           npm run build
         env:
           CI: true
