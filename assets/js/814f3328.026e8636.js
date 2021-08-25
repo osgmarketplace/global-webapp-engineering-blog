@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkglobal_webapp_engineering_blog=self.webpackChunkglobal_webapp_engineering_blog||[]).push([[535],{5641:function(e){e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"React FAQ","permalink":"/2021/08/26/react-faq"},{"title":"Introduction","permalink":"/"}]}')}}]);

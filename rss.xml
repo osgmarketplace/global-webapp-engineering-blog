@@ -2,21 +2,21 @@
 <rss version="2.0">
     <channel>
         <title>OBFnS Engineering Blog Blog</title>
-        <link>https://docs.buildresonance.com/</link>
+        <link>https://obfns.github.io/global-webapp-engineering-blog/global-webapp-engineering-blog/</link>
         <description>OBFnS Engineering Blog Blog</description>
         <lastBuildDate>Thu, 26 Aug 2021 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
             <title><![CDATA[React FAQ]]></title>
-            <link>https://docs.buildresonance.com/2021/08/26/react-faq</link>
+            <link>https://obfns.github.io/global-webapp-engineering-blog/global-webapp-engineering-blog/2021/08/26/react-faq</link>
             <guid>React FAQ</guid>
             <pubDate>Thu, 26 Aug 2021 00:00:00 GMT</pubDate>
             <description><![CDATA[Some basics and helpful information not always shared amongst frontend devs using React]]></description>
         </item>
         <item>
             <title><![CDATA[Introduction]]></title>
-            <link>https://docs.buildresonance.com/</link>
+            <link>https://obfns.github.io/global-webapp-engineering-blog/global-webapp-engineering-blog/</link>
             <guid>/</guid>
             <pubDate>Wed, 25 Aug 2021 00:00:00 GMT</pubDate>
             <description><![CDATA[Homepage and introduction to the purpose of this Blog]]></description>
