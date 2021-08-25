@@ -1,0 +1,36 @@
+name: Default Issue Labeled Handling
+
+on:
+  issues:
+    types:
+      - labeled
+      - unlabeled
+
+jobs:
+  # Uncomment me to dump things to console
+  # troubleshooting:
+  #   runs-on: ubuntu-latest
+  #   steps:
+  #     - run: "echo ${{ github.event_name }}"
+
+  in-progress-check:
+    runs-on: ubuntu-latest # public repo, keep this here
+    timeout-minutes: 3
+    if: github.event.action == 'labeled' && github.event.label.name == 'in progress'
+    steps:
+      - name: Call API for In Progress
+        uses: dkershner6/post-api-call-action@v1
+        with:
+          url: 'https://api.devops.eformedpartners.com/github/repos/${{ github.repository }}/issues/${{ github.event.issue.number }}/in_progress'
+          headers: '{"Authorization": "Bearer ${{ secrets.DEVOPS_API_KEY }}"}'
+
+  in-progress-label-update:
+    runs-on: ubuntu-latest # public repo, keep this here
+    timeout-minutes: 3
+    if: github.event.action != 'labeled' || github.event.label.name != 'in progress'
+    steps:
+      - name: Call API for In Progress Labels
+        uses: dkershner6/post-api-call-action@v1
+        with:
+          url: 'https://api.devops.eformedpartners.com/github/repos/${{ github.repository }}/issues/${{ github.event.issue.number }}/in_progress_labels'
+          headers: '{"Authorization": "Bearer ${{ secrets.DEVOPS_API_KEY }}"}'
