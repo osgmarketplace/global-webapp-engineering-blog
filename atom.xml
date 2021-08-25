@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://docs.buildresonance.com/</id>
+    <title>OBFnS Engineering Blog Blog</title>
+    <updated>2021-08-26T00:00:00.000Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://docs.buildresonance.com/"/>
+    <subtitle>OBFnS Engineering Blog Blog</subtitle>
+    <icon>https://docs.buildresonance.com/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[React FAQ]]></title>
+        <id>React FAQ</id>
+        <link href="https://docs.buildresonance.com/2021/08/26/react-faq"/>
+        <updated>2021-08-26T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Some basics and helpful information not always shared amongst frontend devs using React]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Introduction]]></title>
+        <id>/</id>
+        <link href="https://docs.buildresonance.com/"/>
+        <updated>2021-08-25T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Homepage and introduction to the purpose of this Blog]]></summary>
+    </entry>
+</feed>

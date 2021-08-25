@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkglobal_webapp_engineering_blog=self.webpackChunkglobal_webapp_engineering_blog||[]).push([[964],{8866:function(e){e.exports=JSON.parse('{"react":{"allTagsPath":"/tags","slug":"react","name":"react","count":1,"permalink":"/tags/react"},"help":{"allTagsPath":"/tags","slug":"help","name":"help","count":1,"permalink":"/tags/help"}}')}}]);
