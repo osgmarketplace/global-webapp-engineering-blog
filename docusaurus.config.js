@@ -2,8 +2,8 @@
 module.exports = {
     title: "OBFnS Engineering Blog",
     tagline: "Articles and References for the OBFnS Engineering team",
-    url: "https://docs.buildresonance.com",
-    baseUrl: "/",
+    url: "https://obfns.github.io/global-webapp-engineering-blog/",
+    baseUrl: "/global-webapp-engineering-blog/",
     onBrokenLinks: "throw",
     onBrokenMarkdownLinks: "warn",
     favicon: "img/favicon.ico",
