@@ -32,7 +32,7 @@ by Martin Fowler, with Kent Beck
         overflow: "hidden",
     }}
 >
-    <img src={buildImageUrl("refactoring.jpg")} />
+    <img src={buildImageUrl("refactoring.jpg")} height="250" />
 </div>
 
 ## TLDR

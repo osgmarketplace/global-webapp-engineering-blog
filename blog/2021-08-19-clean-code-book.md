@@ -32,7 +32,7 @@ by Robert C. Martin
         overflow: "hidden",
     }}
 >
-    <img src={buildImageUrl("cleancode.jpg")} />
+    <img src={buildImageUrl("cleancode.jpg")} height="250" />
 </div>
 
 ## Why not?

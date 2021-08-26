@@ -23,7 +23,7 @@ by Sam Newman
         overflow: "hidden",
     }}
 >
-    <img src={buildImageUrl("building-microservices.jpg")} />
+    <img src={buildImageUrl("building-microservices.jpg")} height="250" />
 </div>
 
 ## TLDR
