@@ -1,7 +1,16 @@
 ---
 title: Refactoring - Book Review
 description: Improving the Design of Existing Code
-tags: [book, code-quality, learning]
+tags:
+    [
+        backend,
+        book,
+        code-quality,
+        frontend,
+        learning,
+        maintenance,
+        recommended-learning,
+    ]
 author: Derek Kershner
 author_title: CTO
 author_url: https://github.com/dkershner6
@@ -23,7 +32,7 @@ by Martin Fowler, with Kent Beck
         overflow: "hidden",
     }}
 >
-    <img src={buildImageUrl("refactoring.jpg")} />
+    <img src={buildImageUrl("refactoring.jpg")} height="250" />
 </div>
 
 ## TLDR
@@ -46,10 +55,14 @@ This book is fantastic for all Software Engineers, period. It is a great replace
 
 ### Code Smells
 
-These are when you look at code, and you know something is not right. The book has seventy refactorings, and code smells to go along with each. It can be used in somewhat "handbook" fashion, but eventually this will become very natural to you and your overall results will grow significantly.
+These are when you look at code, and you know something is not right. The book has seventy refactorings, and code smells to go along with each. It can be used in somewhat "handbook" fashion, but eventually this will become very natural to you and your results will speed up significantly.
 
 ### Test Driven Development
 
 We all have heard, and know, we should be using unit tests, and that we should probably be using test-driven development. There are exceptions for things like prototyping, but generally any application of significant size that is in production benefits greatly.
 
 This book takes away all excuses for not using TDD, and provides strategies that feel so natural, you will be essentially getting unit tests for free. It takes some initial discipline and willpower, but in my opinion, the results are well worth it.
+
+## Engineer Reactions
+
+_Feel free to post comments_
