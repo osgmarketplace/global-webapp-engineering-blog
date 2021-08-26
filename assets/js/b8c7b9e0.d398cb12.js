@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkglobal_webapp_engineering_blog=self.webpackChunkglobal_webapp_engineering_blog||[]).push([[471],{4879:function(e){e.exports=JSON.parse('{"allTagsPath":"/global-webapp-engineering-blog/tags","slug":"code-quality","name":"code-quality","count":1,"permalink":"/global-webapp-engineering-blog/tags/code-quality"}')}}]);

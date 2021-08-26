@@ -4,9 +4,23 @@
         <title>OBFnS Engineering Blog Blog</title>
         <link>https://obfns.github.io/global-webapp-engineering-blog/</link>
         <description>OBFnS Engineering Blog Blog</description>
-        <lastBuildDate>Wed, 18 Aug 2021 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 20 Aug 2021 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[The DynamoDB Book - Book Review]]></title>
+            <link>https://obfns.github.io/global-webapp-engineering-blog/2021/08/20/dynamodb-book</link>
+            <guid>The DynamoDB Book - Book Review</guid>
+            <pubDate>Fri, 20 Aug 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[Supercharge your Data Modeling]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Clean Code - Book Review]]></title>
+            <link>https://obfns.github.io/global-webapp-engineering-blog/2021/08/19/clean-code-book</link>
+            <guid>Clean Code - Book Review</guid>
+            <pubDate>Thu, 19 Aug 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[Improving the Design of Existing Code]]></description>
+        </item>
         <item>
             <title><![CDATA[Refactoring - Book Review]]></title>
             <link>https://obfns.github.io/global-webapp-engineering-blog/2021/08/18/refactoring-book</link>
