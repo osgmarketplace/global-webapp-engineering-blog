@@ -1,6 +1,6 @@
 {
   "name": "global-webapp-engineering-blog",
-  "version": "0.3.0",
+  "version": "0.4.0",
   "description": "This repo contains the OBFnS Engineering Blog. This should be used to teach other Engineers about something you learned.",
   "scripts": {
     "docusaurus": "docusaurus",
