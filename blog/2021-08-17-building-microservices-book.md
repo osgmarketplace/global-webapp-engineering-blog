@@ -12,6 +12,8 @@ import buildImageUrl from "../src/util/buildImageUrl";
 
 # Building Microservices
 
+by Sam Newman
+
 <div
     style={{
         display: "flex",
@@ -36,6 +38,10 @@ This book is great for those coming from Monolithic architectures (pretty much e
 
 <!--truncate-->
 
+## Who should read?
+
+Generally the answer is everyone, but especially those more interested in the architecture career track as a basic starting point. Monolithic architectures have fallen out of style for all but the simplest applications, and for good reason. If you are unsure what these reasons are, this is a good first step.
+
 ## Important Concepts
 
 ### Bounded Contexts and Seams
@@ -43,11 +49,3 @@ This book is great for those coming from Monolithic architectures (pretty much e
 These are the bread and butter of microservices, and are almost solely responsible for if a microservice is going to succeed or fail miserably. Watch closely when these things are mentioned throughout the book, but here is a quick synopsis anyway:
 
 Seams are the lines which are drawn being (micro)services, creating contexts. If the seam is in a good location, it creates a bounded context, which is loosely defined as a collection of concepts that heavily relate to one another. I usually see this referred to as "domain".
-
-## Who should read?
-
-Generally the answer is everyone, but especially those more interested in the architecture career track as a basic starting point. Monolithic architectures have fallen out of style for all but the simplest applications, and for good reason. If you are unsure what these reasons are, this is a good first step.
-
-## Personal Reflections
-
-I find that people often make their contexts too small, at least as often as they make them too large. Where you choose to target should be directly in reference to how many developers are going to be working on the project. You want enough domains that everyone is not spending significant amounts of time on merge conflicts, but not so many as there is significant tedium in just updating simple functionality. Generally I find the ratio to be around 3-10 devs per domain.
