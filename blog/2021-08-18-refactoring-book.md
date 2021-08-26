@@ -7,9 +7,10 @@ tags:
         book,
         code-quality,
         frontend,
+        fundamentals,
         learning,
         maintenance,
-        recommended-learning,
+        recommended-learning-fundamentals,
     ]
 author: Derek Kershner
 author_title: CTO

@@ -7,6 +7,7 @@ tags:
         book,
         code-quality,
         frontend,
+        fundamentals,
         learning,
         maintenance,
         not-recommended-learning,
