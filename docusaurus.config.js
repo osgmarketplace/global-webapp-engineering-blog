@@ -18,11 +18,7 @@ module.exports = {
             },
             items: [
                 {
-                    label: "Help",
-                    href: "/tags/help",
-                },
-                {
-                    label: "Learning",
+                    label: "Learning Resources",
                     href: "/tags/learning",
                 },
                 {
