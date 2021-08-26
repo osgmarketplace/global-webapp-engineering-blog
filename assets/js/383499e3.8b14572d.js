@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkglobal_webapp_engineering_blog=self.webpackChunkglobal_webapp_engineering_blog||[]).push([[531],{8108:function(e){e.exports=JSON.parse('{"allTagsPath":"/global-webapp-engineering-blog/tags","slug":"advanced","name":"advanced","count":1,"permalink":"/global-webapp-engineering-blog/tags/advanced"}')}}]);
