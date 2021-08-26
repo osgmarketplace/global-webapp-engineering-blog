@@ -1,7 +1,14 @@
 ---
 title: Building Microservices - Book Review
 description: Designing Fine Grained Systems
-tags: [architecture, book, learning, recommended-learning]
+tags:
+    [
+        architecture,
+        book,
+        fundamentals,
+        learning,
+        recommended-learning-fundamentals,
+    ]
 author: Derek Kershner
 author_title: CTO
 author_url: https://github.com/dkershner6

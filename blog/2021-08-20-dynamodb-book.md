@@ -1,7 +1,15 @@
 ---
 title: The DynamoDB Book - Book Review
 description: Supercharge your Data Modeling
-tags: [backend, book, databases, learning, recommended-learning]
+tags:
+    [
+        backend,
+        book,
+        databases,
+        fundamentals,
+        learning,
+        recommended-learning-fundamentals,
+    ]
 author: Derek Kershner
 author_title: CTO
 author_url: https://github.com/dkershner6
