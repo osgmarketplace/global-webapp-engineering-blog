@@ -18,14 +18,6 @@ module.exports = {
             },
             items: [
                 {
-                    label: "Learning Resources",
-                    href: "/tags/learning",
-                },
-                {
-                    label: "React",
-                    href: "/tags/react",
-                },
-                {
                     label: "All Tags",
                     href: "/tags",
                 },
