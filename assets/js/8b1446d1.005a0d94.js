@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkglobal_webapp_engineering_blog=self.webpackChunkglobal_webapp_engineering_blog||[]).push([[621],{1685:function(e){e.exports=JSON.parse('{"allTagsPath":"/global-webapp-engineering-blog/tags","slug":"react","name":"react","count":1,"permalink":"/global-webapp-engineering-blog/tags/react"}')}}]);

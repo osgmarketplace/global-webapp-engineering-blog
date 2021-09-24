@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkglobal_webapp_engineering_blog=self.webpackChunkglobal_webapp_engineering_blog||[]).push([[887],{3441:function(n){n.exports=JSON.parse('{"introduction":{"allTagsPath":"/global-webapp-engineering-blog/tags","slug":"introduction","name":"introduction","count":1,"permalink":"/global-webapp-engineering-blog/tags/introduction"}}')}}]);

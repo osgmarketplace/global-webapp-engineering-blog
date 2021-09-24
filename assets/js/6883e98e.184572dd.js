@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkglobal_webapp_engineering_blog=self.webpackChunkglobal_webapp_engineering_blog||[]).push([[834],{7709:function(e){e.exports=JSON.parse('{"allTagsPath":"/global-webapp-engineering-blog/tags","slug":"fundamentals","name":"fundamentals","count":4,"permalink":"/global-webapp-engineering-blog/tags/fundamentals"}')}}]);

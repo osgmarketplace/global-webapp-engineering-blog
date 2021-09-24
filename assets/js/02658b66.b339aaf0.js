@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkglobal_webapp_engineering_blog=self.webpackChunkglobal_webapp_engineering_blog||[]).push([[672],{7516:function(e){e.exports=JSON.parse('{"allTagsPath":"/global-webapp-engineering-blog/tags","slug":"frontend","name":"frontend","count":3,"permalink":"/global-webapp-engineering-blog/tags/frontend"}')}}]);

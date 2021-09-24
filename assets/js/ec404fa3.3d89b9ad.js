@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkglobal_webapp_engineering_blog=self.webpackChunkglobal_webapp_engineering_blog||[]).push([[47],{2663:function(e){e.exports=JSON.parse('{"allTagsPath":"/global-webapp-engineering-blog/tags","slug":"not-recommended-learning","name":"not-recommended-learning","count":1,"permalink":"/global-webapp-engineering-blog/tags/not-recommended-learning"}')}}]);
