@@ -38,3 +38,4 @@ jobs:
           # (Optional) A comma-separated list of keywords. Default
           # "depends on, blocked by"
           keywords: depends on, blocked by
+          ignore_dependabot: on
